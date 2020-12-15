@@ -11,40 +11,40 @@ Die [Vorlesung](https://www.youtube.com/playlist?list=PLIIRjhhOmUg-67fZPeqaeOWIO
 Geschichtlicher Hintergrund und Motivation
 
 #### Vorlesung 1:
-Definition einer Gruppe
-Sätze zur Gruppenstruktur
+Definition einer Gruppe<br>
+Sätze zur Gruppenstruktur<br>
 Die Permutationsgruppe S_n
 
 #### Vorlesung 2:
-Struktur von S_n
-Signum
-Untergruppen
-Erzeugte Gruppen
+Struktur von S_n<br>
+Signum<br>
+Untergruppen<br>
+Erzeugte Gruppen<br>
 Konjugierte Elemente in Gruppen
 
 #### Vorlesung 3:
-Nebenklassen
-Index einer Untergruppe
+Nebenklassen<br>
+Index einer Untergruppe<br>
 Normalteiler
 
 #### Vorlesung 4:
-Definition Gruppenhomomorphismus
-Definition Kern
-Der Satz von Caley
-Automorphismengruppen
+Definition Gruppenhomomorphismus<br>
+Definition Kern<br>
+Der Satz von Caley<br>
+Automorphismengruppen<br>
 Die alternierende Gruppe
 
 #### Vorlesung 5:
-Homomorphiesatz
-Isomorphiesätze
+Homomorphiesatz<br>
+Isomorphiesätze<br>
 Zyklische Gruppen
 
 #### Vorlesung 6:
-Gruppenaktionen
-Bahn/Orbit
-Stabilisator
-Transitive Aktion
-Bahnengleichung
-Zentralisator
-Normalisator
+Gruppenaktionen<br>
+Bahn/Orbit<br>
+Stabilisator<br>
+Transitive Aktion<br>
+Bahnengleichung<br>
+Zentralisator<br>
+Normalisator<br>
 Klassengleichung
