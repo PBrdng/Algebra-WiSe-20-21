@@ -48,3 +48,6 @@ Bahnengleichung<br>
 Zentralisator<br>
 Normalisator<br>
 Klassengleichung
+
+#### Vorlesung 7:
+Algebraische Körpererweiterungen<br> Minimalpolynom<br> Körpererweiterungsgrad<br> irreduzibles Polynom
