@@ -53,7 +53,6 @@ Klassengleichung
 Algebraische Körpererweiterungen<br> Minimalpolynom<br> Körpererweiterungsgrad<br> irreduzibles Polynom
 
 #### Vorlesung 8:
-Zerfällungskörper
 Zerfällungskörper<br>
 K-Homomorphismen<br>
 Fortsetzung<br>
