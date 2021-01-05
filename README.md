@@ -57,3 +57,9 @@ Zerfällungskörper<br>
 K-Homomorphismen<br>
 Fortsetzung<br>
 Zusammenhang Erweiterungsgrad und K-Homomorphismen
+
+#### Vorlesung 9:
+Galois Erweiterungen<br>
+Galois Gruppen<br>
+Hauptsatz der Galoistheorie<br>
+Einheitswurzeln
