@@ -63,3 +63,9 @@ Galois Erweiterungen<br>
 Galois Gruppen<br>
 Hauptsatz der Galoistheorie<br>
 Einheitswurzeln
+
+#### Vorlesung 10:
+Körpererweiterungen, die durch Radikale auflösbar sind<br>
+Auflösbare Gruppen<br>
+Die allgemeine Gleichung vom Grad 5 ist nicht auflösbar<br>
+Die symmetrische Gruppe $S_n$ ist nicht auflösbar.
