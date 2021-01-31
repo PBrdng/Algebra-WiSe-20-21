@@ -69,3 +69,13 @@ Körpererweiterungen, die durch Radikale auflösbar sind<br>
 Auflösbare Gruppen<br>
 Die allgemeine Gleichung vom Grad 5 ist nicht auflösbar<br>
 Die symmetrische Gruppe S_n ist nicht auflösbar für n grösser gleich 5.
+
+#### Vorlesung 11:
+Ringe<br>
+Integritätsbereich<br>
+Ideale<br>
+Hauptideale<br>
+Primideale<br>
+Maximale Ideale<br>
+Restklassenringe<br>
+Ringhomomorphismen.
