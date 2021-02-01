@@ -79,3 +79,6 @@ Primideale<br>
 Maximale Ideale<br>
 Restklassenringe<br>
 Ringhomomorphismen.
+
+#### Vorlesung 12:
+Computeralgebra mit OSCAR
